@@ -15,7 +15,7 @@ export function SearchBar({ onSearch, onFilter }) {
     });
 
     const categories = [
-        'Smartphones',
+        'Smartphones And Iphones',
         'Laptops',
         'PC Accessories',
         'Smartphone Accessories',
