@@ -20,7 +20,7 @@ export function SearchBar({ onSearch, onFilter }) {
         'PC Accessories',
         'Smartphone Accessories',
         'Audio',
-        'Gaming',
+        'Gaming && Accessories',
         'Wearables'
     ];
 
