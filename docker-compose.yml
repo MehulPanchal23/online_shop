@@ -1,8 +1,6 @@
 services:
   online_shop:
-    build:
-      context: .
-      dockerfile: Dockerfile
+    image: ehulpanchal2323/online_shop:latest
     container_name: online_shop
     ports:
       - "80:80"
