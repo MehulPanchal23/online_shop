@@ -1,6 +1,5 @@
 {
   "name": "online-shop",
-  "homepage": "/shop",
   "private": true,
   "version": "0.0.0",
   "type": "module",
